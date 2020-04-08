@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+ <style> .red-text {color: red;}
+ h1 {font-size: 32px;}
+  {font-family: 'Orbitron', sans-serif;}
+ 
+  
+ p {font-size: 16px;}
+  {font-family: arial;}
+  
+ body
+ {background-color: black;}
+ 
+ font-family: {"Orbitron";}
+ 
+ .white-text
+ {color: white;}
+ 
+ 
+ </style>
+ 
+ 
+<div class="black-background">
+
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/75049653@N02/49722499776/in/dateposted-public/" title="under construction"><img src="https://live.staticflickr.com/65535/49722499776_898e108c9f_c.jpg" width="720" height="138"></a></script>
+
+<h1 class="red-text" link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;720;800&display=swap" rel="stylesheet"> Christian Baird </h1>
+
+</div>
+ 
+<p class= "white-text"> Christian is a photographer. He enjoys street photography, landscape photography and abstract photography. </p>
+
+<form>
+ 
+ <input type="text" placeholder= "type here" required>
+
+
+<button type="submit request">Submit request</button>
+
+
+</form>
+
+
+</div>
+<body>
+
